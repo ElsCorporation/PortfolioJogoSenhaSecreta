@@ -25,7 +25,7 @@ function criarSenha (limiteSenha) {
 
 function jogoDaSenha (){
     console.log("Entrei no jogoDaSenha()");
-    //alert(`Senha é ${senhaAleatoria}`); <- Cheat Code para Debug. Apagar depois.
+    
     while (senhasDescobertas < senhaAleatoria.length) {
         
         controladorTentativasSenha = prompt(`SENHA: ${mensagemSenhasDescobertas} \n Digite um número de 1 a 9, para a senha ${faseSenha+1}: `);
