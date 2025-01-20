@@ -52,6 +52,6 @@ function jogoDaSenha (){
     alert (`Você ganhou com ${tentativa} ${mensagemTentativa}. \n Senha: ${mensagemSenhasDescobertas}`);
 }
 
-criarSenha(3);
+criarSenha(2);
 jogoDaSenha();
 console.log(senhaAleatoria);
