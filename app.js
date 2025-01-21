@@ -5,20 +5,12 @@ let controladorTentativasSenha;
 let faseSenha=0;
 let mensagemSenhasDescobertas = [];
 let algo;
-const xesque= "delete";
-const algo2 = "superalgo";
 let tentativa = 2;
-let babuino = "123";
-let peloamordedeusdaconflito = "conflito";
 let dicaNumero;
 let mensagemTentativa;
 const teste = "estamos testando o checkout";
 const teste2 = "rafael marques esteve aqui HEHEHE";
-let algo;
-const xesque= "dele";
-const algo2 = "algumacoisa";
-let babuino = "1321";
-let peloamordedeusdaconflito = "confrito";
+
 
 
 function criarSenha (limiteSenha) {
