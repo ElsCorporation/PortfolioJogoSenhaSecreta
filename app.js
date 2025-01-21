@@ -8,6 +8,7 @@ let tentativa=1;
 let dicaNumero;
 let mensagemTentativa;
 const teste = "estamos testando o checkout";
+const teste2 = "rafael marques esteve aqui HEHEHE";
 
 
 function criarSenha (limiteSenha) {
