@@ -4,9 +4,13 @@ let senhasDescobertas=0;
 let controladorTentativasSenha;
 let faseSenha=0;
 let mensagemSenhasDescobertas = [];
-let tentativa=1;
+let algo;
+let tentativa = 2;
 let dicaNumero;
 let mensagemTentativa;
+const teste = "estamos testando o checkout";
+const teste2 = "rafael marques esteve aqui HEHEHE";
+
 
 
 function criarSenha (limiteSenha) {
