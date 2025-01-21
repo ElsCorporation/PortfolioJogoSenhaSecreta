@@ -9,6 +9,11 @@ let dicaNumero;
 let mensagemTentativa;
 const teste = "estamos testando o checkout";
 const teste2 = "rafael marques esteve aqui HEHEHE";
+let algo;
+const xesque= "dele";
+const algo2 = "algumacoisa";
+let babuino = "1321";
+let peloamordedeusdaconflito = "confrito";
 
 
 function criarSenha (limiteSenha) {
