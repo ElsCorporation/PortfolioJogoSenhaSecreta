@@ -7,6 +7,7 @@ let mensagemSenhasDescobertas = [];
 let tentativa=1;
 let dicaNumero;
 let mensagemTentativa;
+const teste = "estamos testando o checkout";
 
 
 function criarSenha (limiteSenha) {
