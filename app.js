@@ -4,7 +4,7 @@ let senhasDescobertas=0;
 let controladorTentativasSenha;
 let faseSenha=0;
 let mensagemSenhasDescobertas = [];
-const tentativa = 10;
+let tentativa = 2;
 let dicaNumero;
 let mensagemTentativa;
 const teste = "estamos testando o checkout";
